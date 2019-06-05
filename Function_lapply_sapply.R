@@ -1,5 +1,5 @@
 setwd("C:\\Users\\user\\Desktop\\R\\Basics")
-rm(list = ls())
+rm(list = ls()) #To remove objects from the specified environment e.g variables from previous workings
 
 #Using Apply function: Apply a Function over a List or Vector
 print(sample(x=1:100, 3))
