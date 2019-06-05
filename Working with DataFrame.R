@@ -39,7 +39,7 @@ df$rain  #returns all rows in a vector format
 df[,'rain']
 df[, 3] 
 df[['rain']]
-df[[3]] #This is the 3rd column
+df[[3]] #This equals df[ ,1]
 
 
 df['rain'] #returns all rows in a Dataframe format of the rain column
